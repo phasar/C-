@@ -1,0 +1,2 @@
+This is the first file in my new project.
+This is the aditional text added.
